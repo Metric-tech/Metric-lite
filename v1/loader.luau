@@ -13,5 +13,5 @@
 pcall(function()
     loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/02026d7b5e530de6fcf629bbd88837b9286ed679f5c56f81cff51f3fafcffa5e/download"))()
 
-    print("[METRIC.LITE] | Succesfully Executed."
+    print("[METRIC.LITE] | Succesfully Executed.")
 end)
